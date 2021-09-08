@@ -1,4 +1,5 @@
 #pookkolam
+from joy import *
 
 #outer circle
 c2=circle(r=151,fill="#fc9802",stroke="none")
