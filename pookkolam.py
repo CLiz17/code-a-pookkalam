@@ -1,4 +1,4 @@
-#pookkolam
+#pookkalam
 from joy import *
 
 #outer circle
