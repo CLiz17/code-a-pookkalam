@@ -6,4 +6,4 @@
 ```bash
 pookolam.py
 ```
-<img src="joy_pookkalam.png" width="400" height="400"/>
+<img src="code-a-pookkalam.png" width="400" height="400"/>
