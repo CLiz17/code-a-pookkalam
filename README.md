@@ -2,5 +2,4 @@
 #### Pookolam is a traditional arrangements of flowers on the floor during Onam a traditional festival in Kerala. <br> It was using the Joy library in python<br>
 
 ## pookolam-2022
-![pookolam-2022](https://user-images.githubusercontent.com/68838221/210166158-b5155736-c996-45ba-8430-e8fba395671c.png)
-
+![Group 1](https://github.com/CLiz17/code-a-pookolam/assets/68838221/28284fbe-0bbe-46ff-a58e-fdbd24e8ff4d)
